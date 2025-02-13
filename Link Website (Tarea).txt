@@ -1,0 +1,7 @@
+Link del website ya publicado (Hosteado en GitHub pages)
+
+https://samuelx100.github.io/Tarea-2-Etiquetas-/
+
+Link del repositorio
+
+https://github.com/SAmuelX100/Tarea-2-Etiquetas-.git
